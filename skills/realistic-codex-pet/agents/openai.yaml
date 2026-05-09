@@ -1,0 +1,4 @@
+interface:
+  display_name: "Realistic Codex Pet"
+  short_description: "Make realistic pets from photos"
+  default_prompt: "Use $realistic-codex-pet to create a realistic Codex pet from 3-6 uploaded pet photos, install it, set it as the default pet, and guide upload to codex-pets.net."
