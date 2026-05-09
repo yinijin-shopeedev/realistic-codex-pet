@@ -29,7 +29,7 @@ skills/realistic-codex-pet/
 
 ### Codex 截图
 
-![Codex desktop pet screenshot](docs/assets/example-codex-screenshot.png)
+![Codex desktop pet screenshot](docs/assets/example-codex-screenshot2.png)
 
 ### 完整 9 个 animation states
 
