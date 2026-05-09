@@ -23,11 +23,15 @@ skills/realistic-codex-pet/
 
 ## 示例效果
 
-Codex Pets 上传后的 animation states 预览：
+### 上传图片
 
-![Realistic Codex pet preview](docs/assets/realistic-pet-preview.png)
+![Uploaded pet reference photos](docs/assets/example-uploaded-photos.png)
 
-完整 9 个 animation states：
+### Codex 截图
+
+![Codex desktop pet screenshot](docs/assets/example-codex-screenshot.png)
+
+### 完整 9 个 animation states
 
 ![Realistic Codex pet animation states](docs/assets/realistic-pet-animation-states.png)
 
