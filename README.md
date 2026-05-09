@@ -21,6 +21,16 @@ skills/realistic-codex-pet/
 - 生成后把该 pet 设置为 Codex 当前默认 pet。
 - 引导用户上传到 [Codex Pets](https://codex-pets.net/#/upload) 共享。
 
+## 示例效果
+
+Codex Pets 上传后的 animation states 预览：
+
+![Realistic Codex pet preview](docs/assets/realistic-pet-preview.png)
+
+完整 9 个 animation states：
+
+![Realistic Codex pet animation states](docs/assets/realistic-pet-animation-states.png)
+
 ## 安装
 
 推荐直接让 Codex 安装：
